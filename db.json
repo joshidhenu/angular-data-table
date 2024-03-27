@@ -1,0 +1,46 @@
+{
+    "customer":[
+        {
+            "name":"dhenu",
+            "age":21,
+            "phone": 9327173413,
+            "email": "dhenu@gmail.com",
+            "status":"Active"
+        },
+        {
+            "name":"rishi",
+            "age":22,
+            "phone": 9327173413,
+            "email": "rishi@gmail.com",
+            "status":"Active"
+        },
+        {
+            "name":"manthan",
+            "age":17,
+            "phone": 9327173413,
+            "email": "manthan@gmail.com",
+            "status":"Active"
+        },
+        {
+            "name":"krupali",
+            "age":21,
+            "phone": 9327173413,
+            "email": "krupali@gmail.com",
+            "status":"Active"
+        },
+        {
+            "name":"urvang",
+            "age":22,
+            "phone": 9327173413,
+            "email": "urvang@gmail.com",
+            "status":"Active"
+        },
+        {
+            "name":"hardik",
+            "age":20,
+            "phone": 9327173413,
+            "email": "hardik@gmail.com",
+            "status":"Active"
+        }
+    ]
+}
